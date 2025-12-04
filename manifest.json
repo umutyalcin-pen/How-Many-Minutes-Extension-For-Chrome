@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Kaç Dakika?",
+  "version": "1.0",
+  "description": "Web makaleleri için tahmini okuma süresini hesaplar.",
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {},
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "css": [
+        "styles.css"
+      ]
+    }
+  ]
+}
