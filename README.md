@@ -11,9 +11,10 @@
 ## Eklenti ile alakalı ekran görüntüleri / Screenshots related to the extension
 
 <p align="center">
-    <img src="b1.png" alt="Link Arşivcisi Ana Ekranı: Kaydetme ve Geçmiş" width="250" style="margin: 5px;"/>
-    <img src="c1.png" alt="Link Arşivcisi Detay: Günlük Link Listesi" width="250" style="margin: 5px;"/>
-    <img src="d1.png" alt="Link Arşivcisi Hakkında ve Veri Yönetimi" width="250" style="margin: 5px;"/>
+    <img src="sea.png" alt="Kaç Dakika? Eklenti Tanıtımı" width="250" style="margin: 5px;"/>
+    <img src="k.jpeg" alt="Substack Makalesinde Okuma Süresi Rozeti" width="250" style="margin: 5px;"/>
+    <img src="z.jpeg" alt="Substack Makalesi Firewall Görseli" width="250" style="margin: 5px;"/>
+    <img src="es.jpeg" alt="Reddit Sayfasında Okuma Süresi Rozeti" width="250" style="margin: 5px;"/>
 </p>
 
 ---
@@ -23,11 +24,9 @@ Bu eklenti, okumayı planladığınız herhangi bir web sayfasının veya makale
 
 Temel Özellikler ve Neden Önemli:
 
-Anlık Hesaplama: Sayfadaki metin yoğunluğuna göre ortalama okuma hızınızı baz alarak kesin bir zaman tahmini sunar.
-
-Content Script Kullanımı: Teknik olarak etkileyicidir, çünkü eklenti tarayıcıyı değil, doğrudan web sayfasının içeriğini okur ve dinamik olarak sayfanın yapısına müdahale ederek rozeti yerleştirir. Bu, Chrome uzantı geliştirmede önemli bir yetenektir.
-
-Verimlilik: Okumaya başlamadan önce ne kadar zaman ayırmanız gerektiğini bilmenizi sağlayarak zaman yönetimi ve odaklanma yeteneğinizi artırır.
+* Anlık Hesaplama: Sayfadaki metin yoğunluğuna göre ortalama okuma hızınızı baz alarak kesin bir zaman tahmini sunar.
+* Content Script Kullanımı: Teknik olarak etkileyicidir, çünkü eklenti tarayıcıyı değil, doğrudan web sayfasının içeriğini okur ve dinamik olarak sayfanın yapısına müdahale ederek rozeti yerleştirir. Bu, Chrome uzantı geliştirmede önemli bir yetenektir.
+* Verimlilik: Okumaya başlamadan önce ne kadar zaman ayırmanız gerektiğini bilmenizi sağlayarak zaman yönetimi ve odaklanma yeteneğinizi artırır.
 
 ---
 
@@ -36,26 +35,26 @@ This extension instantly calculates the estimated reading time for any web page 
 
 Key Features and Why It Matters:
 
-Instant Calculation: Provides a precise time estimate based on the text density of the page and typical reading speeds.
-
-Leverages Content Script: This project is technically impressive because it utilizes the Content Script mechanism. It doesn't just check the browser; it reads and dynamically injects elements into the page's structure, showcasing a key skill in advanced Chrome extension development.
-
-Efficiency: By letting you know how much time you need to dedicate before starting, it significantly enhances your time management and focus capabilities.
+* Instant Calculation: Provides a precise time estimate based on the text density of the page and typical reading speeds.
+* Leverages Content Script: This project is technically impressive because it utilizes the Content Script mechanism. It doesn't just check the browser; it reads and dynamically injects elements into the page's structure, showcasing a key skill in advanced Chrome extension development.
+* Efficiency: By letting you know how much time you need to dedicate before starting, it significantly enhances your time management and focus capabilities.
 
 ---
 
 ## 💻 Proje Teknolojileri: / Project Technologies:
 
 <p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a><a href="https://desktop.github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github desktop" width="40" height="40"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a><a href="https://desktop.github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github desktop" width="40" height="40"/></a>
 </p>
 
 ---
+
 ## ℹ️ Ek Bilgiler / Additional Information
 
 * Eğer okuma süresi uyarısını kapatmak istiyorsanız eklenti çubuğunda bu eklentinin simgesine tıklamanız yeterlidir. Tekrar tıkladığınızda aynı şekilde geri gelecektir onun yaptığının aksine.
 * If you want to turn off the reading time alert, simply click the plugin icon in the plugin bar. Clicking it again will bring it back up.
 * Yazı okuma hızı genel bir yetişkinin ortalama okuma ölçeği alınarak hesaplanmaktadır.
+
 ---
 
-💡 Eklenecekler / To Be Added: Chrome Extensions sayfasına eklenecek ve link readme. dosyasına eklenecek. Eğer Web sayfasına yüklenmeden kullanmak istiyorsanız gerekli konfigürasyon ayarları ile yerel bir şekilde kullanabilirsiniz.
+💡 Eklenecekler / To Be Added: Chrome Extensions sayfasına eklenecek ve link readme. dosyasına eklenecek.
