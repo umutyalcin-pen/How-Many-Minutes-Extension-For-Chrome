@@ -1,4 +1,4 @@
-/* Premium Glassmorphism Badge */
+
 .reading-time-badge {
   position: fixed;
   top: 20px;
@@ -22,12 +22,12 @@
   transform: translateY(-10px);
   transition: opacity 0.4s ease, transform 0.4s cubic-bezier(0.2, 0.8, 0.2, 1);
   pointer-events: auto;
-  /* Enable clicks */
+ 
   cursor: pointer;
-  /* Show pointer */
+  
 }
 
-/* Dark mode support */
+
 @media (prefers-color-scheme: dark) {
   .reading-time-badge {
     background: rgba(30, 30, 30, 0.75);
